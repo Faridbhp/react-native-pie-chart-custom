@@ -1,0 +1,22 @@
+{
+  "name": "react-native-pie-chart-custom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A customizable pie chart component for React Native",
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-native": ">=0.64.0",
+    "react-native-svg": "^12.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "pie-chart",
+    "chart",
+    "svg"
+  ],
+  "author": "MFG",
+  "license": "ISC"
+}
