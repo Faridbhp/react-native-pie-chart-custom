@@ -1,5 +1,4 @@
 import React from "react";
-import { View, Text, StyleSheet } from "react-native";
 import { Svg, G, Path, Text as SvgText } from "react-native-svg";
 
 const PieChart = ({ data, size = 150, outerRadius = 70 }) => {
