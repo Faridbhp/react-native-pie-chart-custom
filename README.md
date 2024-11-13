@@ -29,9 +29,9 @@ Prepare some data that you would like to display in the pie chart:
 
 ```bash
 const dataOutstandingBill = [
-    {value: 20, color: '#7bc043', label: '26K'},
-    {value: 30, color: '#f18700', label: '20K'},
-    {value: 50, color: '#0077b3', label: '54K'},
+    {value: 20, color: '#7bc043', label: '20K'},
+    {value: 30, color: '#f18700', label: '30K'},
+    {value: 50, color: '#0077b3', label: '50K'},
 ];
 ```
 
